@@ -1,12 +1,5 @@
 import React, { forwardRef, useMemo } from "react";
-import {
-  Box,
-  Avatar,
-  Card,
-  CardHeader,
-  CardActionArea,
-  CardActionAreaProps,
-} from "@mui/material";
+import { Box, Avatar, Card, CardHeader, CardActionArea } from "@mui/material";
 import {
   Link as RouterLink,
   LinkProps as RouterLinkProps,

@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/codebattles-october-2022-frontend/static/css/main.e6c13ad2.css",
-    "main.js": "/codebattles-october-2022-frontend/static/js/main.a4d769a8.js",
+    "main.js": "/codebattles-october-2022-frontend/static/js/main.2686fd74.js",
     "index.html": "/codebattles-october-2022-frontend/index.html",
     "main.e6c13ad2.css.map": "/codebattles-october-2022-frontend/static/css/main.e6c13ad2.css.map",
-    "main.a4d769a8.js.map": "/codebattles-october-2022-frontend/static/js/main.a4d769a8.js.map"
+    "main.2686fd74.js.map": "/codebattles-october-2022-frontend/static/js/main.2686fd74.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a4d769a8.js"
+    "static/js/main.2686fd74.js"
   ]
 }

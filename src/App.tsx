@@ -10,7 +10,7 @@ const App: React.FC = () => {
   return (
     <>
       <Navbar />
-      <Container maxWidth="lg">
+      <Container maxWidth="lg" sx={{ my: 2 }}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/advocates" element={<AdvocateListView />} />
